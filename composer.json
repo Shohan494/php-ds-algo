@@ -1,0 +1,17 @@
+{
+    "name": "shohan494/php-ds-algo",
+    "description": "a package where basic ds and algorithm is implemented",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shohan494",
+            "email": "shohan12224943@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		}
+	},
+    "require": {}
+}
