@@ -13,3 +13,11 @@
     - add means push
     - remove means pop
     - lifo = last in first out
+
+#### Queue
+    - Line of bills
+    - fifo = first in first out
+    - first = head, last = tail
+    - add = enqueue, remove = dequeue, peek = the head element
+
+#### Sort
